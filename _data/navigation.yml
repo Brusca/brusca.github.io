@@ -2,5 +2,5 @@
 main:
   - title: "Posts"
     url: /year-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Categories"
+    url: /categories-archive/
